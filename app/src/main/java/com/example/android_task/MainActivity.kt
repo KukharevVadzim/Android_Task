@@ -39,3 +39,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 >>>>>>> 7409c44 (New Commit.)
+=======
+    }
+}
+>>>>>>> 7409c44 (New Commit.)
