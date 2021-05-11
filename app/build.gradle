@@ -1,7 +1,10 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+<<<<<<< HEAD
     id 'kotlin-android-extensions'
+=======
+>>>>>>> 7409c44 (New Commit.)
 }
 
 android {

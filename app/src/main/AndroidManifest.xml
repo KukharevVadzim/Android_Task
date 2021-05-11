@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_Task">
+<<<<<<< HEAD
         <activity android:name=".SecondActivity"></activity>
+=======
+>>>>>>> 7409c44 (New Commit.)
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
