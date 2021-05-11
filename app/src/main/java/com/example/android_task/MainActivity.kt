@@ -1,6 +1,6 @@
 package com.example.android_task
 
-<<<<<<< HEAD
+
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,16 +10,13 @@ import kotlinx.android.synthetic.main.activity_main.*
 const val USER_EMAIL: String = "user_email"
 const val USER_PASSWORD: String = "user_password"
 
-=======
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
->>>>>>> 7409c44 (New Commit.)
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-<<<<<<< HEAD
+
 
         button.setOnClickListener() {
             if (email.text.toString().isEmpty() || password.text.toString().isEmpty()){
@@ -34,12 +31,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-=======
-    }
-}
->>>>>>> 7409c44 (New Commit.)
-=======
-    }
-}
->>>>>>> 7409c44 (New Commit.)
