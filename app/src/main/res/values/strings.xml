@@ -5,5 +5,7 @@
     <string name="click_button">LOGIN</string>
     <string name="message">Not a member? Sign up now.</string>
     <string name="data">Personal data</string>
-    <string name="back">Return</string>
+    <string name="back">RETURN</string>
+    <string name="show_info_linner">Search</string>
+    <string name="show_info_constraint">Menu</string>
 </resources>

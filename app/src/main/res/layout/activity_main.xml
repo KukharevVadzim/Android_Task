@@ -46,6 +46,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:text="@string/click_button"
+        android:gravity="center"
         android:background="@drawable/button"
         android:textColor="#FFFFFF"
         android:textSize="18sp">
