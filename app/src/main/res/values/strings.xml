@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Android_Task</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_passworsd">Password</string>
+    <string name="click_button">LOGIN</string>
+    <string name="message">Not a member? Sign up now.</string>
+    <string name="data">Personal data</string>
+    <string name="back">RETURN</string>
+    <string name="show_info_linner">Search</string>
+    <string name="show_info_constraint">Menu</string>
+    <string name="next">NEXT</string>
+    <string name="names">Names</string>
+    <string name="Vadim">Вадим</string>
+    <string name="Vasy">Вадим</string>
+    <string name="Sergey">Вадим</string>
+    <string name="Tany">Вадим</string>
+    <string name="Timyr">Вадим</string>
+    <string name="Kirill_K">Вадим</string>
+    <string name="Kirill_N">Вадим</string>
 </resources>
