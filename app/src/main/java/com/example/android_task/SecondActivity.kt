@@ -16,6 +16,10 @@ class SecondActivity :AppCompatActivity(){
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
+        buttonNext.setOnClickListener(){
+            val intent = Intent(this, ThirdActivity::class.java)
+            startActivity(intent)
+        }
         val text: String = "Email: $userName" + "Password: $userPassword"
         val constraintFragment = ConstraintFragment()
         val linnerFragment = LinerFragment()
