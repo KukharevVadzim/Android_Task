@@ -8,4 +8,13 @@
     <string name="back">RETURN</string>
     <string name="show_info_linner">Search</string>
     <string name="show_info_constraint">Menu</string>
+    <string name="next">NEXT</string>
+    <string name="names">Names</string>
+    <string name="Vadim">Вадим</string>
+    <string name="Vasy">Вадим</string>
+    <string name="Sergey">Вадим</string>
+    <string name="Tany">Вадим</string>
+    <string name="Timyr">Вадим</string>
+    <string name="Kirill_K">Вадим</string>
+    <string name="Kirill_N">Вадим</string>
 </resources>
